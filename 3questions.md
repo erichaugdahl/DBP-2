@@ -15,7 +15,7 @@ FROM members
 ```
 #### 3. What trainers make over $30,000.00 a year in salary?
 ```sql
-SELCT salary
+SELECT salary
 FROM staff
 WHERE position = "trainer" AND salary > 30,000.00
 ```
