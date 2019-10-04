@@ -1,4 +1,7 @@
-# **3 Questions For Avolve Fitness**
+# **Avolve Fitness**
+#### Avolve Fitness is a gym that is local to Dekalb. They offer weight training as well as a sauna and swimming pool. They have one location but around 700 members. They also offer a cafe and daycare for parents.
+
+## **3 Questions For Avolve Fitness**
 #### 1. What section is the dumbell rack in?
 ```sql
 SELECT section
